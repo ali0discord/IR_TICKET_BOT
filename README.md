@@ -24,4 +24,4 @@ Always take a backup of your `db/data.sqlite` file before updating the bot.
 ## Support server
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
 
-👉 **[Join support server](https://discord.gg/vRuhG9R)**
+👉 **[Join support server](https://discord.gg/VC2p9n8Mkr)**
